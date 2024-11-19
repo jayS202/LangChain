@@ -35,6 +35,7 @@ Install all the dependencies specified in requirements.txt:
 ### 6. Use the Package
 You're now ready to work with the LangChain package! Start working with the installed dependencies.
 
+---
 ## Notes
 Ensure you have Python 3.7 or above installed on your system.
  - If you encounter any issues, ensure that pip is updated by running:
